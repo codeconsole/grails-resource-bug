@@ -2,6 +2,7 @@
 This works fine with 7.0.0-M1
 
 ```
+git clone https://github.com/codeconsole/grails-resource-bug
 gradle bootRun
 ```
 
@@ -16,3 +17,10 @@ java.util.zip.ZipException: zip END header not found
 
 Perhaps broken by https://github.com/grails/grails-core/commit/75f292b0ecabe85d95c0ef2b4b203e208c363220
 https://github.com/grails/grails-core/commit/823383708e48c4b3fa87008676b3978a77a9a26c
+
+To see code working with M1, use the working tag
+```
+git clone https://github.com/codeconsole/grails-resource-bug
+git checkout working
+gradle bootRun
+```
