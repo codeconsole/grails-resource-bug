@@ -1,4 +1,4 @@
-## Grails 7.0.0-SNAPSHOT Bug
+## Grails 7.0.0-SNAPSHOT [Bug 13983](https://github.com/grails/grails-core/issues/13983)
 This works fine with 7.0.0-M1
 
 ```
