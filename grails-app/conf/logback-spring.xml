@@ -36,4 +36,5 @@
 <!--        <appender-ref ref="FILE" />-->
 <!--    </root>-->
 <!--    add logging.file.name to application.yml-->
+    <logger name="org.springframework.core.io.support" level="DEBUG"/>
 </configuration>
