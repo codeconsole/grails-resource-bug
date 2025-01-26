@@ -18,7 +18,7 @@ java.util.zip.ZipException: zip END header not found
 Perhaps broken by https://github.com/grails/grails-core/commit/75f292b0ecabe85d95c0ef2b4b203e208c363220
 https://github.com/grails/grails-core/commit/823383708e48c4b3fa87008676b3978a77a9a26c
 
-To see code working with M1, use the working tag
+To see code working with M1, use the [working tag](https://github.com/codeconsole/grails-resource-bug/releases/tag/working). All that is different [gradle.properties](https://github.com/codeconsole/grails-resource-bug/commit/8adf78420ceb5ab65296ab8be798d2cad57b9938)
 ```
 git clone https://github.com/codeconsole/grails-resource-bug
 git checkout working
