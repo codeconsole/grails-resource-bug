@@ -24,3 +24,8 @@ git clone https://github.com/codeconsole/grails-resource-bug
 git checkout working
 gradle bootRun
 ```
+
+```
+gradle dependencies|grep graal
+# no results
+```
