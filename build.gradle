@@ -33,7 +33,6 @@ dependencies {
     developmentOnly "org.webjars.npm:bootstrap:5.3.3"
     developmentOnly "org.webjars.npm:bootstrap-icons:1.11.3"
     developmentOnly "org.webjars.npm:jquery:3.7.1"
-    implementation platform("org.grails:grails-bom:$grailsVersion")
     implementation "org.grails:grails-core"
     implementation "org.grails:grails-logging"
     implementation "org.grails:grails-plugin-databinding"
