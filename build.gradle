@@ -4,7 +4,7 @@ buildscript {
         mavenCentral()
     }
     dependencies { // Not Published to Gradle Plugin Portal
-        classpath "org.grails:grails-gradle-plugin:7.0.0-M3"
+        classpath "org.grails:grails-gradle-plugin:7.0.0-SNAPSHOT"
         classpath "org.grails.plugins:hibernate5:9.0.0-M2"
     }
 }
